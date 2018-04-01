@@ -1,0 +1,16 @@
+.wrapper{
+    text-align: center;
+}
+.button {
+    position: absolute;
+    top:50%;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  .grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
